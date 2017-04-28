@@ -1,2 +1,0 @@
-# Flowers-site
-with JS
